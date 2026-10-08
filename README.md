@@ -7,7 +7,7 @@ I am a passionate **.NET Developer** specializing in building secure RESTful API
 ### 🚀 Tech Stack & Skills
 * **Languages:** C#, JavaScript, HTML, CSS
 * **Frameworks & Ecosystem:** .NET Core, ASP.NET MVC, Web API, Entity Framework
-* **Databases:** SQL Server, MySQL
+* **Databases:** SQL Server, MSSQL
 * **Tools & Version Control:** Git, GitHub, Visual Studio, VS Code
 
 ---
