@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Smit Javiya 👋
 
-<!--
-**smitjaviya-2610/smitjaviya-2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **.NET Developer** specializing in building secure RESTful APIs, scalable web services, and enterprise-grade web portals. I love turning complex business logic into clean, robust, and high-performance software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Skills
+* **Languages:** C#, JavaScript, HTML, CSS
+* **Frameworks & Ecosystem:** .NET Core, ASP.NET MVC, Web API, Entity Framework
+* **Databases:** SQL Server, MySQL
+* **Tools & Version Control:** Git, GitHub, Visual Studio, VS Code
+
+---
+
+### 💻 Professional Focus
+* Developing secure and scalable **RESTful APIs**
+* Designing clean architecture and robust database systems
+* Managing enterprise web applications and modern portals
+
+---
+
+### 📫 Connect with me
+* **Email:** smitjaviya2610@gmail.com
+* **GitHub:** [smitjaviya-2610](https://github.com/smitjaviya-2610)
